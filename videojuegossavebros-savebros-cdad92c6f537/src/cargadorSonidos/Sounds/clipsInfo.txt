@@ -1,0 +1,26 @@
+// sounds
+
+pew gun.wav
+shotgun shotgun.wav
+sniper sniper.wav
+machine_gun machine_gun.wav
+nuke nuke.wav
+shield shield.wav
+flash flash.wav
+open open_door.wav
+hi zombie.wav
+hi2 zombie2.wav
+hi3 zombie3.wav
+rat rat.wav
+hitZom bullet_zombie.wav
+hitHeroe heroe_muerto.wav
+zomAtack zombie_ataca.wav
+deadZom zombie_muerto.wav
+emptyMag empty_mag.wav
+gameOver clap.wav
+lose you_lose.wav
+laugh laugh.wav
+box mistery_box.wav
+round round.wav
+menu menu.wav
+

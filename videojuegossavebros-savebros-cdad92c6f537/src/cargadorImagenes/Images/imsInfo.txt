@@ -1,0 +1,81 @@
+// imsInfo.txt images
+
+// balls images
+o H1DPrisionero.png
+o H2DPrisionero.png
+o H3DPrisionero.png
+o H4DPrisionero.png
+
+o bulletD.png
+o bulletU.png
+o bulletL.png
+o bulletR.png
+
+// background image
+o saveBros0.jpg
+o saveBros1.png
+
+// bat images
+s powerBox.png 37
+
+s H1D.png 4
+s H1L.png 4
+s H1U.png 4
+s H1R.png 4
+
+s H2D.png 4
+s H2L.png 4
+s H2U.png 4
+s H2R.png 4
+
+s H3D.png 4
+s H3L.png 4
+s H3U.png 4
+s H3R.png 4
+
+s H4D.png 4
+s H4L.png 4
+s H4U.png 4
+s H4R.png 4
+
+s Z1D.png 4
+s Z1L.png 4
+s Z1U.png 4
+s Z1R.png 4
+s Z2D.png 4
+s Z2L.png 4
+s Z2U.png 4
+s Z2R.png 4
+s Z3D.png 4
+s Z3L.png 4
+s Z3U.png 4
+s Z3R.png 4
+s Z4D.png 4
+s Z4L.png 4
+s Z4U.png 4
+s Z4R.png 4
+s Z5D.png 4
+s Z5L.png 4
+s Z5U.png 4
+s Z5R.png 4
+s Z6D.png 4
+s Z6L.png 4
+s Z6U.png 4
+s Z6R.png 4
+s Z7D.png 4
+s Z7L.png 4
+s Z7U.png 4
+s Z7R.png 4
+s Z8D.png 4
+s Z8L.png 4
+s Z8U.png 4
+s Z8R.png 4
+s Z9D.png 4
+s Z9L.png 4
+s Z9U.png 4
+s Z9R.png 4
+s Z10D.png 4
+s Z10L.png 4
+s Z10U.png 4
+s Z10R.png 4
+
