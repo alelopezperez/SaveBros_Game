@@ -1,6 +1,6 @@
 # Save Bros VideoGame
 
-One Paragraph of project description goes here
+![imagotype](https://github.com/AleLopezPerez1312/SaveBros_Game/blob/master/SaveBros.png)
 
 ## Getting Started
 
